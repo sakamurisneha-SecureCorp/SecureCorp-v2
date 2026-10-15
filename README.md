@@ -32,6 +32,4 @@ Security assessment of SecureCorp's Ubuntu web server (10.10.10.10) hosting DVWA
 ## Student Info
 **Sakamuri Sneha** - B.Tech Cyber Security (2024-2028) - 9.14 GPA
 SV College of Engineering, Tirupati (JNTU-A)
-**Sakamuri Sneha** - B.Tech Cyber Security (2024-2028) - 9.14 GPA
-SV College of Engineering, Tirupati (JNTU-A)
 GitHub: https://github.com/sakamurisneha-SecureCorp/SecureCorp-v2
